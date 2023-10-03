@@ -52,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1696263542534</updated>
       <workItem from="1696263545931" duration="316000" />
-      <workItem from="1696313461852" duration="9404000" />
+      <workItem from="1696313461852" duration="10076000" />
     </task>
     <task id="LOCAL-00001" summary="Ejercicio de Primos pasado a Swing">
       <option name="closed" value="true" />
@@ -86,7 +86,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696322534465</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Ahora muestra los primos, calcula el total de primos y guarda los archivos.">
+      <option name="closed" value="true" />
+      <created>1696326012148</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696326012148</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
